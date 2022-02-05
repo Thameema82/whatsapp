@@ -7,7 +7,7 @@ class Status extends StatelessWidget {
   List<Chat> Statuslist = [
     Chat(
         avatar: '',
-        name: 'sonu',
+        name: 'Surya Kiran',
         message: '23 minutes ago',
         updatedAt: '11:00 AM'),
     Chat(
